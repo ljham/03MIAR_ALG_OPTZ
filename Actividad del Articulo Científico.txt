@@ -1,0 +1,4 @@
+Actividad del Articulo Científico:
+- Análisis del articulo
+- Explicar en modo de resumen que hace el algoritmo
+- Ventajas/Desventajas
